@@ -110,18 +110,6 @@ npm run dev
 
 ---
 
-## 📸 UI Overview
-
-The homepage includes:
-- Hero Section
-- Categories Section
-- Features Section
-- Call to Action
-- FAQ Section
-- Live Stats & Testimonials
-
----
-
 ## 👨‍💻 Author
 
 Shayan Shah  
