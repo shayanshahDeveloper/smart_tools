@@ -113,9 +113,9 @@ const ContactPage = () => {
       // Send email using EmailJS
       const response = await emailjs.send(
         // "servicekey", //use service key
-        // "template_2gs5xpc", use template key 
+        // "template", use template key 
         templateParams,
-        // "P-DFoYopDqL0tCEqJ" use public id
+        // "Public" use public id
       );
 
       // Show success toast
