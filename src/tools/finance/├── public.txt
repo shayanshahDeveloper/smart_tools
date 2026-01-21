@@ -1,0 +1,112 @@
+├── public
+│   └── vite.svg
+├── src
+│   ├── assets
+│   │   └── react.svg
+│   ├── components
+│   │   ├── layout
+│   │   │   ├── AdBanner.jsx
+│   │   │   ├── Footer.jsx
+│   │   │   ├── Header.jsx
+│   │   │   ├── Layout.jsx
+│   │   │   └── SearchBar.jsx
+│   │   ├── sections
+│   │   │   ├── CategoriesSection.jsx
+│   │   │   ├── FeaturesSection.jsx
+│   │   │   └── HeroSection.jsx
+│   │   └── ui
+│   │       ├── Button.jsx
+│   │       ├── CategoryCard.jsx
+│   │       ├── Loader.jsx
+│   │       ├── SearchInput.jsx
+│   │       └── ToolCard.jsx
+│   ├── hooks
+│   │   ├── useDebounce.js
+│   │   ├── useLocalStorage.js
+│   │   └── useSearch.js
+│   ├── pages
+│   │   ├── AboutPage.jsx
+│   │   ├── CategoryPage.jsx
+│   │   ├── ContactPage.jsx
+│   │   ├── DisclaimerPage.jsx
+│   │   ├── FAQPage.jsx
+│   │   ├── FeatureRequestPage.jsx
+│   │   ├── HelpCenterPage.jsx
+│   │   ├── HomePage.jsx
+│   │   ├── PrivacyPage.jsx
+│   │   ├── ReportIssuePage.jsx
+│   │   ├── StatusPage.jsx
+│   │   ├── SupportPage.jsx
+│   │   ├── TermsPage.jsx
+│   │   ├── ToolPage.jsx
+│   │   └── ToolsPage.jsx
+│   ├── tools
+│   │   ├── developers
+│   │   │   ├── base64-encoder.jsx
+│   │   │   ├── code-minifier.jsx
+│   │   │   ├── color-converter.jsx
+│   │   │   ├── index.jsx
+│   │   │   ├── json-formatter.jsx
+│   │   │   └── timestamp-converter.jsx
+│   │   ├── education
+│   │   │   ├── equation-solver.jsx
+│   │   │   ├── gpa-calculator.jsx
+│   │   │   ├── index.jsx
+│   │   │   ├── plagiarism-checker.jsx
+│   │   │   ├── unit-converter.jsx
+│   │   │   └── word-counter.jsx
+│   │   ├── finance
+│   │   │   ├── currency-converter.jsx
+│   │   │   ├── emi-calculator.jsx
+│   │   │   ├── index.jsx
+│   │   │   ├── investment-calculator.jsx
+│   │   │   ├── loan-calculator.jsx
+│   │   │   └── tax-calculator.jsx
+│   │   ├── fun
+│   │   │   ├── index.jsx
+│   │   │   ├── meme-generator.jsx
+│   │   │   ├── name-generator.jsx
+│   │   │   ├── password-generator.jsx
+│   │   │   └── qr-generator.jsx
+│   │   ├── health
+│   │   │   ├── bmi-calculator.jsx
+│   │   │   ├── calorie-counter.jsx
+│   │   │   ├── index.jsx
+│   │   │   └── workout-planner.jsx
+│   │   ├── images
+│   │   │   ├── compress-image.jsx
+│   │   │   ├── convert-format.jsx
+│   │   │   ├── image-watermark.jsx
+│   │   │   ├── index.jsx
+│   │   │   ├── remove-background.jsx
+│   │   │   └── resize-image.jsx
+│   │   ├── pdf
+│   │   │   ├── compress-pdf.jsx
+│   │   │   ├── index.jsx
+│   │   │   ├── merge-pdf.jsx
+│   │   │   ├── pdf-to-image.jsx
+│   │   │   ├── pdf-to-word.jsx
+│   │   │   └── split-pdf.jsx
+│   │   ├── text
+│   │   │   ├── case-converter.jsx
+│   │   │   ├── index.jsx
+│   │   │   ├── lorem-generator.jsx
+│   │   │   ├── text-comparer.jsx
+│   │   │   └── text-counter.jsx
+│   │   └── index.jsx
+│   ├── utils
+│   │   ├── categories.js
+│   │   ├── constants.js
+│   │   └── helpers.js
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── routes.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+└── vite.config.js
