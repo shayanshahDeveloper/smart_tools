@@ -130,10 +130,10 @@ const FeatureRequestPage = () => {
 
       // Send email using EmailJS
       const response = await emailjs.send(
-        // "service", user servcie key
-        // "template", use template key 
+        "service_t66xmpn", 
+        "template_qyt9kmd",
         templateParams,
-        // "Public" use public key
+        "P-DFoYopDqL0tCEqJ"
       );
 
       // SIMPLER SUCCESS TOAST MESSAGE

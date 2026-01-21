@@ -112,10 +112,10 @@ const ContactPage = () => {
 
       // Send email using EmailJS
       const response = await emailjs.send(
-        // "servicekey", //use service key
-        // "template", use template key 
+        "service_t66xmpn",
+        "template_2gs5xpc",
         templateParams,
-        // "Public" use public id
+        "P-DFoYopDqL0tCEqJ"
       );
 
       // Show success toast
